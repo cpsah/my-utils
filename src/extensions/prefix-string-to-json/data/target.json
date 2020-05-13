@@ -1,0 +1,17 @@
+{
+  "title": "TInformation",
+  "lang": {
+    "on": "TOn",
+    "off": "TOff"
+  },
+  "messages": {
+    "please-wait": "TPlease wait...",
+    "try-again": "TThe last action failed due to an internal error. Please reload the page and try again."
+  },
+  "shared": {
+    "assert": {
+      "missing-required-fields": "TMissing required fields",
+      "fields-arrays-with-at-least-one-value": "TFields should be arrays with at least one value"
+    }
+  }
+}

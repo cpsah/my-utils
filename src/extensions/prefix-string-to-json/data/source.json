@@ -1,0 +1,17 @@
+{
+  "title": "Information",
+  "lang": {
+    "on": "On",
+    "off": "Off"
+  },
+  "messages": {
+    "please-wait": "Please wait...",
+    "try-again": "The last action failed due to an internal error. Please reload the page and try again."
+  },
+  "shared": {
+    "assert": {
+      "missing-required-fields": "Missing required fields",
+      "fields-arrays-with-at-least-one-value": "Fields should be arrays with at least one value"
+    }
+  }
+}
