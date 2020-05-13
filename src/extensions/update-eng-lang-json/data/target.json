@@ -1,0 +1,21 @@
+{
+  "lang": {
+    "on": "Allumé",
+    "off": "Éteint"
+  },
+  "messages": {
+    "please-wait": "Veuillez patienter...",
+    "try-again": "Veuillez recharger la page et réessayer."
+  },
+  "shared": {
+    "assert": {
+      "missing-required-fields": "Champs obligatoires manquants"
+    },
+    "buttons": {
+      "ok": "OK",
+      "cancel": "Annuler",
+      "close": "Fermer",
+      "delete": "Supprimer"
+    }
+  }
+}

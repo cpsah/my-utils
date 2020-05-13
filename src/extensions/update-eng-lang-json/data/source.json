@@ -1,0 +1,21 @@
+{
+  "lang": {
+    "on": "On",
+    "off": "Off"
+  },
+  "messages": {
+    "please-wait": "Please wait...",
+    "try-again": "Please reload the page and try again."
+  },
+  "shared": {
+    "assert": {
+      "missing-required-fields": "Missing required fields"
+    },
+    "buttons": {
+      "ok": "OK",
+      "cancel": "Cancel",
+      "close": "Close",
+      "delete": "Delete"
+    }
+  }
+}
