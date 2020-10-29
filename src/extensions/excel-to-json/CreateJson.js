@@ -1,5 +1,5 @@
 const FileWrite = require("../../../src/FileWrite");
-const FIELD_SEPARATOR = ':';
+const FIELD_SEPARATOR = '.';
 
 exports.create = (data) => {
   const list = formJson(data);
