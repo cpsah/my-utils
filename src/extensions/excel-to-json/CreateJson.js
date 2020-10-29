@@ -27,5 +27,5 @@ const setKeyValue = (resource, keysHierarchy, text) => {
 };
 
 function writeToFile(list) {
-  FileWrite.write('./data/sample.json', JSON.stringify(JSON.parse(list), null, 2));
+  FileWrite.write('./data/target.json', JSON.stringify(JSON.parse(list), null, 2));
 }

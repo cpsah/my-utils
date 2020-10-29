@@ -12,7 +12,7 @@ function formString(data) {
 
     const list = setKeyValue('', data, {});
 
-    for(let row in list){
+    for (let row in list) {
         //jsonString += `"${row}","${list[row]}"\n`;
         jsonString += `${list[row]}\n`;
         // jsonString += `${row}\n`;
@@ -34,5 +34,5 @@ const setKeyValue = (accumulator, data, resource) => {
 };
 
 function writeToFile(list) {
-    FileWrite.write('./data/sample.csv', list);
+    FileWrite.write('./data/target.csv', list);
 }
