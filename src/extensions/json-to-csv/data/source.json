@@ -1,0 +1,17 @@
+{
+  "switch": {
+    "on": "On",
+    "off": "Off"
+  },
+  "title": "Page Title",
+  "home": {
+    "menu": {
+      "about": "About",
+      "logout": "Logout"
+    }
+  },
+  "messages": {
+    "please-wait": "Please wait..."
+  },
+  "heading": "Head Line"
+}
