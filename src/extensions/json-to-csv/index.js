@@ -2,7 +2,7 @@ const jsonRead = require('./ReadJson');
 const createCsv = require('./CreateCsv');
 start();
 
-async function start () {
-    const data = await jsonRead.getContent('./data/sample.json');
+async function start() {
+    const data = await jsonRead.getContent('./data/source.json');
     createCsv.create(data);
 }
